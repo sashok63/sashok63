@@ -31,9 +31,9 @@
   </a>
 </p>
 
-<!---
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashok63&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="sashok63" /></p>
+
+<!---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashok63&show_icons=true&theme=cobalt&locale=en" alt="sashok63" /></p>
 
