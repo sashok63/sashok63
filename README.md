@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋</h1>
-<h3 align="left">A passionate C/C++ developer with a focus on low-level programming</h3>
+<h3 align="left">I'm a passionate C/C++/Rust developer with a focus on low-level programming</h3>
 
 - 🔭 I’m currently working on [GameBoy emulator in C++ with SDL2](https://github.com/sashok63/gb)
 
 - 🔬 I'm want to learn **Windows/Linux Kernel, Embedded Systems**
-
-- 📫 How to reach me **alexandershatalin03@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/sashok63](https://www.linkedin.com/in/sashok63)
 
@@ -19,6 +17,9 @@
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/725b445492374bfc8ad7cdde7286d20445364499/icons/file_type_makefile.svg" alt="makefile" width="40" height="40"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
